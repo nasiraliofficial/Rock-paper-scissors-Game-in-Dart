@@ -27,22 +27,23 @@ void main() {
 
     switch (choise) {
       case "r":
-        print("You chose r ");
+        print("You chose r!");
         break;
       case 'p':
-        print("You chose p ");
+        print("You chose p!");
         break;
       case 's':
-        print("You chose s ");
+        print("You chose s!");
         break;
       case "q":
         break;
       default:
-        print('Invalid choice. Please try again.');
+        print('Invalid choice. Please try again!');
         break;
     }
     if (choise == 'q') {
-      print('Thanks for playing');
+      print('Thanks for playing!');
+      print('Make with ❤️ in Pakistan.')
       break;
     }
     if (choise == 'r' || choise == 'p' || choise == 's') {
