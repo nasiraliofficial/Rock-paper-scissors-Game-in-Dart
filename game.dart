@@ -43,7 +43,7 @@ void main() {
     }
     if (choise == 'q') {
       print('Thanks for playing!');
-      print('Make with ❤️ in Pakistan.')
+      print('Made with ❤️ in Pakistan.')
       break;
     }
     if (choise == 'r' || choise == 'p' || choise == 's') {
